@@ -1,7 +1,3 @@
-document.onerorr = (a, b, c) => {
-	console.error(a);
-};
-
 let bookmarks = [
 	{
 		name: "google",
