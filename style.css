@@ -1,0 +1,17 @@
+.autoComplete_wrapper, input {
+  width: 100% !important;
+}
+mark {  
+  color: black !important;
+  padding: 0px !important;
+ }
+#btn {
+  display: none;
+}
+.extra {
+  color: red !important;
+}
+
+.text-wrap {
+  overflow-wrap: break-word;
+}
